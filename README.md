@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-- 👜Interested in **Back-end Development** and **Data Analysis**.  
+- 👜**Full Stack Development**.  
 - 👨‍💻 Undergraduate student in **Systems Analysis and Development**.  
 - 🧮 Undergraduate student in **Mathematics**.  
 - 📚 Currently learning **.NET**, **C#**, **JavaScript**, **TypeScript**, and **Node.js**.  
